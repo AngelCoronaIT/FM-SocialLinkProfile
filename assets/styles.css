@@ -41,9 +41,9 @@ body {
 }
 
 .profile-name {
-  font-weight: 600;
+  font-weight: 400;
   color: var(--White);
-  font-size: 1.2rem;
+  font-size: 0.57rem;
   margin-bottom: 0.5rem;
 }
 

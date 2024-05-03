@@ -21,7 +21,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://angelcoronait.github.io/FM-BlogPreviewCard/)
+- Live Site URL: [Add live site URL here](https://angelcoronait.github.io/FM-SocialLinkProfile/)
 
 ## My process
 
